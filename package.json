@@ -1,0 +1,11 @@
+{
+  "name": "jQuery-MD5",
+  "original-version": "0.0.1",
+  "version": "0.0.1",
+  "description": "Create (hex-encoded) MD5 hash of a given value",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inconsiderate/jQuery-MD5.git"
+  },
+  "author": "Christopher Casebeer (https://github.com/placemarker)"
+}
